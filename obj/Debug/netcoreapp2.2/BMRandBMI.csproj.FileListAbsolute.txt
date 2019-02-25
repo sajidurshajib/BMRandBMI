@@ -1,0 +1,11 @@
+C:\Users\bucky\Documents\BMRandBMI\BMRandBMI\bin\Debug\netcoreapp2.2\BMRandBMI.deps.json
+C:\Users\bucky\Documents\BMRandBMI\BMRandBMI\bin\Debug\netcoreapp2.2\BMRandBMI.runtimeconfig.json
+C:\Users\bucky\Documents\BMRandBMI\BMRandBMI\bin\Debug\netcoreapp2.2\BMRandBMI.runtimeconfig.dev.json
+C:\Users\bucky\Documents\BMRandBMI\BMRandBMI\bin\Debug\netcoreapp2.2\BMRandBMI.dll
+C:\Users\bucky\Documents\BMRandBMI\BMRandBMI\bin\Debug\netcoreapp2.2\BMRandBMI.pdb
+C:\Users\bucky\Documents\BMRandBMI\BMRandBMI\obj\Debug\netcoreapp2.2\BMRandBMI.csprojAssemblyReference.cache
+C:\Users\bucky\Documents\BMRandBMI\BMRandBMI\obj\Debug\netcoreapp2.2\BMRandBMI.csproj.CoreCompileInputs.cache
+C:\Users\bucky\Documents\BMRandBMI\BMRandBMI\obj\Debug\netcoreapp2.2\BMRandBMI.AssemblyInfoInputs.cache
+C:\Users\bucky\Documents\BMRandBMI\BMRandBMI\obj\Debug\netcoreapp2.2\BMRandBMI.AssemblyInfo.cs
+C:\Users\bucky\Documents\BMRandBMI\BMRandBMI\obj\Debug\netcoreapp2.2\BMRandBMI.dll
+C:\Users\bucky\Documents\BMRandBMI\BMRandBMI\obj\Debug\netcoreapp2.2\BMRandBMI.pdb
