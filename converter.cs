@@ -11,5 +11,8 @@ namespace BMRandBMI
         public double inchTometer(int i){
             return i*0.0254;
         }
+        public double inchTocenti(int i){
+            return i/0.39370;
+        }
     }
 }
