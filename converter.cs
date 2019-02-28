@@ -2,8 +2,11 @@ namespace BMRandBMI
 {
     public class converter
     {
+        public double kgTopound(double kg){
+            return kg*2.20462;
+        }
         public double poundTokg(int p){
-            return p*0.45359237;
+            return p*0.453592;
         } 
         public int footToinch(int f){
             return f*12;
